@@ -39,4 +39,4 @@ I can identify the allowed methods thanks to the fact that when a method is not 
 
 Developed in python 3.10 :)
 
-@s12
+S12
