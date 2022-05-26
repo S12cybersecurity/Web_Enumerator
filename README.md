@@ -2,6 +2,7 @@
 Python Script to enumerate Direcories Files and the HTTP Methods to Acces to the Discovered Resources
 
 **Installation**
+
 git clone https://github.com/S12cybersecurity/Web_Enumerator
 pip3 install requests
 pip3 install asyncio
@@ -9,6 +10,7 @@ pip3 install threading
 pip3 install argparse
 
 **Usage**
+
 - Basic Use:
 python3 web_discover.py --url http://127.0.0.1 --wordlist wordlist.txt
 
